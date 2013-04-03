@@ -1,4 +1,4 @@
 vchardet
 ========
 
-visual charset detector implemented by Java
+visual charset detector implemented in Java
